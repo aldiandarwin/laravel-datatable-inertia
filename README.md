@@ -11,7 +11,7 @@ Dalam project ini, kami telah mencoba membuat bagaimana membangun sebuah data ta
 7. **UI/UX**: Melalui penggunaan Shadcn UI, kita berhasil membuat interface yang ramah pengguna, termasuk indikator sortir.
 8. **Kode yang Konsisten**: Kode telah diperbarui untuk menggunakan sintaks yang lebih modern dan konsisten.
 
-![1.png]( {Screenshot/1.png} )
-![2.png]( {Screenshot/2.png} )
+![1.png](https://github.com/aldiandarwin/laravel-datatable-inertia/assets/70283015/4a3233ab-f980-4391-964e-667f89f2dead)
+![2.png](https://github.com/aldiandarwin/laravel-datatable-inertia/assets/70283015/f7471fc2-ae44-4c93-8d29-13eff857cb0d)
 
 Dengan mengintegrasikan Laravel, React.js, dan Inertia.js, kita telah berhasil membangun sebuah data table yang robust, interaktif, dan mudah digunakan. Semoga artikel ini bermanfaat, selamat mencoba!
