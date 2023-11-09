@@ -11,7 +11,7 @@ Dalam project ini, kami telah mencoba membuat bagaimana membangun sebuah data ta
 7. **UI/UX**: Melalui penggunaan Shadcn UI, kita berhasil membuat interface yang ramah pengguna, termasuk indikator sortir.
 8. **Kode yang Konsisten**: Kode telah diperbarui untuk menggunakan sintaks yang lebih modern dan konsisten.
 
-![1.png]( {link gambar} )
-![2.png]( {link gambar} )
+![1.png]( {Screenshot/1.png} )
+![2.png]( {Screenshot/2.png} )
 
 Dengan mengintegrasikan Laravel, React.js, dan Inertia.js, kita telah berhasil membangun sebuah data table yang robust, interaktif, dan mudah digunakan. Semoga artikel ini bermanfaat, selamat mencoba!
