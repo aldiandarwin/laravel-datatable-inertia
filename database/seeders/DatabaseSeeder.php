@@ -12,11 +12,8 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
-        // \App\Models\User::factory(10)->create();
-
-        // \App\Models\User::factory()->create([
-        //     'name' => 'Test User',
-        //     'email' => 'test@example.com',
-        // ]);
+    collect(range(1, 100))->each(function ($_) {
+        \App\Models\User::factory()->hasPosts(rand(0, 16))->create();
+    });
     }
 }
